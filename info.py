@@ -1,8 +1,7 @@
 
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# python info.py
-
+# pi@raspberrypi:~ $ python info.py
 
 
 import os
